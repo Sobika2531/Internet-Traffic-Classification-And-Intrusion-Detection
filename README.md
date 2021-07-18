@@ -11,4 +11,6 @@ performance analysis is done with the help of several evaluation metrics.
 The dataset used in this project is the NSL-KDD dataset from the University of New Brunswick, Canada. The dataset is an improved version of the KDDCUP’99 datasets from DARPA Intrusion Detection Evaluation Program. The NSL-KDD dataset used in this project consists of 125,973 records training set and 22,544 records test set with 42 attributes/features for each connection sample including class label containing the attack types. After loading the dataset into Python (Jupyter Notebook) development environment, the first task performed was mapping services into 19 traffic classes and various attack types into four attack classes in the datasets.
 
 ##   
-This
+This project was made for the course CS6611 - Creative and innovative project
+
+For docs and info contact sobikasenthilnathan@gmail.com
