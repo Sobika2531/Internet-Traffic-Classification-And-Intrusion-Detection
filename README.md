@@ -12,5 +12,3 @@ The dataset used in this project is the NSL-KDD dataset from the University of N
 
 ##   
 This project was made for the course CS6611 - Creative and innovative project
-
-For docs and info contact sobikasenthilnathan@gmail.com
